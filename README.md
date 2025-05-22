@@ -11,4 +11,5 @@ Este programa demuestra el uso básico de OpenMP para paralelizar un bucle `for`
 Usar el siguiente comando en terminal:
 
 ```bash
-gcc -fopenmp programa.c -o ejecutable
+
+gcc ompLab_Riaño.c -o ejercicio -fopenmp
